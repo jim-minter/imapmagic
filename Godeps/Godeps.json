@@ -1,0 +1,73 @@
+{
+	"ImportPath": "github.com/jim-minter/imapmagic",
+	"GoVersion": "go1.8",
+	"GodepVersion": "v79",
+	"Packages": [
+		"./..."
+	],
+	"Deps": [
+		{
+			"ImportPath": "github.com/emersion/go-imap",
+			"Comment": "v0.9-28-g1cb024e",
+			"Rev": "1cb024e85aed46125ba19bdeb0960fdae4757461"
+		},
+		{
+			"ImportPath": "github.com/emersion/go-imap-idle",
+			"Rev": "2ba078955c8a32885916065eaa984b39ce90ff58"
+		},
+		{
+			"ImportPath": "github.com/emersion/go-imap-move",
+			"Rev": "55b01dfcdb2dc4ca036ce53bc17de1f821859300"
+		},
+		{
+			"ImportPath": "github.com/emersion/go-imap/backend",
+			"Comment": "v0.9-28-g1cb024e",
+			"Rev": "1cb024e85aed46125ba19bdeb0960fdae4757461"
+		},
+		{
+			"ImportPath": "github.com/emersion/go-imap/client",
+			"Comment": "v0.9-28-g1cb024e",
+			"Rev": "1cb024e85aed46125ba19bdeb0960fdae4757461"
+		},
+		{
+			"ImportPath": "github.com/emersion/go-imap/commands",
+			"Comment": "v0.9-28-g1cb024e",
+			"Rev": "1cb024e85aed46125ba19bdeb0960fdae4757461"
+		},
+		{
+			"ImportPath": "github.com/emersion/go-imap/responses",
+			"Comment": "v0.9-28-g1cb024e",
+			"Rev": "1cb024e85aed46125ba19bdeb0960fdae4757461"
+		},
+		{
+			"ImportPath": "github.com/emersion/go-imap/server",
+			"Comment": "v0.9-28-g1cb024e",
+			"Rev": "1cb024e85aed46125ba19bdeb0960fdae4757461"
+		},
+		{
+			"ImportPath": "github.com/emersion/go-imap/utf7",
+			"Comment": "v0.9-28-g1cb024e",
+			"Rev": "1cb024e85aed46125ba19bdeb0960fdae4757461"
+		},
+		{
+			"ImportPath": "github.com/emersion/go-sasl",
+			"Rev": "7e096a0a6197b89989e8cc31016daa67c8c62051"
+		},
+		{
+			"ImportPath": "golang.org/x/text/encoding",
+			"Rev": "e56139fd9c5bc7244c76116c68e500765bb6db6b"
+		},
+		{
+			"ImportPath": "golang.org/x/text/encoding/internal/identifier",
+			"Rev": "e56139fd9c5bc7244c76116c68e500765bb6db6b"
+		},
+		{
+			"ImportPath": "golang.org/x/text/transform",
+			"Rev": "e56139fd9c5bc7244c76116c68e500765bb6db6b"
+		},
+		{
+			"ImportPath": "gopkg.in/yaml.v2",
+			"Rev": "1be3d31502d6eabc0dd7ce5b0daab022e14a5538"
+		}
+	]
+}
